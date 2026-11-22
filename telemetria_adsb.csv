@@ -1,0 +1,1001 @@
+icao24_id,categoria,nivel_turbulencia,alerta_desvio,altitude_pes,velocidade_nos,rssi_dbm,mensagens_seg,satelites_visiveis
+E40000,Comercial,1 - Leve,Não,32805.04,436.85,-69.36,3,9
+E40001,Militar,1 - Leve,Não,42542.94,573.29,-53.02,5,7
+E40002,Aviação Leve,2 - Moderada,Não,9470.09,131.55,-97.39,5,9
+E40003,Comercial,2 - Moderada,Não,37210.11,466.92,-67.48,0,10
+E40004,Comercial,2 - Moderada,Não,31093.64,445.19,-63.23,6,10
+E40005,Comercial,1 - Leve,Não,31864.28,422.67,-53.51,5,12
+E40006,Comercial,1 - Leve,Não,30962.17,492.61,-72.41,5,8
+E40007,Aviação Leve,2 - Moderada,Sim,8365.65,163.32,-56.69,5,11
+E40008,Comercial,1 - Leve,Não,36072.04,479.41,-66.94,7,10
+E40009,Aviação Leve,1 - Leve,Não,8986.16,143.51,-84.63,5,10
+E4000A,Comercial,1 - Leve,Não,36091.4,485.31,-82.18,4,9
+E4000B,Militar,3 - Severa,Não,36759.13,550.91,-63.48,2,9
+E4000C,Aviação Leve,3 - Severa,Sim,9243.94,169.75,-83.17,5,8
+E4000D,Comercial,1 - Leve,Não,33002.02,492.53,-72.61,3,11
+E4000E,Comercial,2 - Moderada,Não,35807.7,452.93,-69.75,0,11
+E4000F,Comercial,3 - Severa,Não,31092.02,458.29,-72.42,3,9
+E40010,Comercial,1 - Leve,Não,34548.8,549.41,-66.21,9,10
+E40011,Comercial,1 - Leve,Não,33120.52,496.67,-71.41,4,10
+E40012,Comercial,2 - Moderada,Não,35283.18,419.73,-62.48,6,11
+E40013,Comercial,1 - Leve,Não,33329.64,493.27,-64.78,4,7
+E40014,Comercial,1 - Leve,Não,35169.64,483.88,-65.09,5,8
+E40015,Comercial,1 - Leve,Não,32884.11,483.35,-70.57,4,11
+E40016,Comercial,3 - Severa,Não,34163.06,448.7,-73.73,5,11
+E40017,Comercial,3 - Severa,Não,36059.0,439.4,-66.78,4,6
+E40018,Comercial,3 - Severa,Não,35060.55,499.54,-68.48,5,8
+E40019,Aviação Leve,1 - Leve,Não,10133.32,165.68,-66.54,5,9
+E4001A,Comercial,2 - Moderada,Não,34532.14,487.6,-60.88,4,8
+E4001B,Comercial,2 - Moderada,Não,41473.91,437.45,-64.42,5,8
+E4001C,Comercial,1 - Leve,Não,35421.15,496.89,-74.04,8,8
+E4001D,Comercial,2 - Moderada,Não,37849.7,455.37,-60.16,3,9
+E4001E,Comercial,1 - Leve,Não,38242.49,459.36,-74.0,2,9
+E4001F,Comercial,1 - Leve,Não,33738.06,444.17,-70.46,1,12
+E40020,Comercial,1 - Leve,Não,39038.44,450.98,-60.7,6,7
+E40021,Militar,1 - Leve,Não,47389.53,584.33,-55.42,4,9
+E40022,Militar,1 - Leve,Não,37204.45,607.84,-72.25,3,10
+E40023,Aviação Leve,1 - Leve,Não,11162.75,137.76,-73.81,2,7
+E40024,Comercial,1 - Leve,Não,37178.24,422.31,-67.24,5,7
+E40025,Comercial,2 - Moderada,Não,39847.32,488.8,-75.9,4,5
+E40026,Aviação Leve,1 - Leve,Não,9990.88,153.81,-72.92,6,7
+E40027,Comercial,1 - Leve,Não,37774.25,467.64,-64.1,3,4
+E40028,Comercial,1 - Leve,Não,34668.42,432.71,-61.36,2,10
+E40029,Comercial,2 - Moderada,Sim,34699.05,467.08,-68.38,2,8
+E4002A,Comercial,1 - Leve,Não,33661.68,457.47,-66.01,8,8
+E4002B,Militar,1 - Leve,Não,41800.1,566.06,-58.75,4,10
+E4002C,Comercial,2 - Moderada,Não,36847.03,477.23,-73.61,4,11
+E4002D,Aviação Leve,1 - Leve,Não,11020.37,156.87,-81.09,6,6
+E4002E,Comercial,1 - Leve,Sim,35918.22,511.47,-69.34,6,10
+E4002F,Comercial,1 - Leve,Não,34126.71,407.21,-69.78,2,7
+E40030,Comercial,2 - Moderada,Não,32365.79,430.1,-62.3,3,12
+E40031,Comercial,1 - Leve,Sim,39276.53,480.56,-71.9,6,12
+E40032,Militar,2 - Moderada,Sim,41294.22,653.9,-70.49,5,9
+E40033,Aviação Leve,1 - Leve,Não,9833.72,149.77,-72.86,0,10
+E40034,Militar,3 - Severa,Sim,41796.24,645.06,-82.92,2,8
+E40035,Aviação Leve,2 - Moderada,Não,10449.03,171.53,-80.82,5,9
+E40036,Comercial,3 - Severa,Não,34656.38,486.68,-58.33,3,11
+E40037,Militar,1 - Leve,Não,46522.64,534.21,-58.52,5,10
+E40038,Comercial,2 - Moderada,Não,34384.84,436.39,-54.97,4,10
+E40039,Comercial,1 - Leve,Não,34560.29,501.41,-64.33,6,10
+E4003A,Comercial,1 - Leve,Não,33443.38,465.45,-72.45,6,8
+E4003B,Comercial,1 - Leve,Não,31699.94,453.83,-80.41,1,9
+E4003C,Comercial,2 - Moderada,Sim,31238.2,481.28,-67.51,6,11
+E4003D,Comercial,3 - Severa,Não,31356.12,490.37,-71.47,6,9
+E4003E,Aviação Leve,2 - Moderada,Sim,6874.76,147.07,-79.28,4,11
+E4003F,Comercial,1 - Leve,Não,36678.35,435.19,-66.39,2,11
+E40040,Comercial,1 - Leve,Não,37690.02,460.6,-56.59,3,10
+E40041,Comercial,2 - Moderada,Não,34848.35,448.82,-71.92,5,7
+E40042,Comercial,1 - Leve,Não,30492.15,415.64,-66.4,5,7
+E40043,Aviação Leve,1 - Leve,Não,10212.22,161.58,-82.34,3,8
+E40044,Comercial,1 - Leve,Não,33792.35,464.11,-58.33,3,10
+E40045,Militar,1 - Leve,Não,44766.73,544.22,-79.46,3,10
+E40046,Aviação Leve,1 - Leve,Não,9204.42,127.23,-79.05,2,9
+E40047,Comercial,1 - Leve,Não,35192.13,474.33,-69.01,4,8
+E40048,Comercial,1 - Leve,Não,32274.0,499.51,-68.59,1,5
+E40049,Aviação Leve,1 - Leve,Não,9526.39,148.72,-71.93,6,11
+E4004A,Aviação Leve,3 - Severa,Sim,8642.59,151.51,-87.15,6,11
+E4004B,Aviação Leve,1 - Leve,Não,9651.98,114.45,-83.16,4,8
+E4004C,Aviação Leve,1 - Leve,Não,8731.79,146.67,-76.72,4,8
+E4004D,Comercial,1 - Leve,Não,32430.81,483.95,-60.28,6,7
+E4004E,Comercial,1 - Leve,Não,33384.43,509.71,-75.16,3,8
+E4004F,Comercial,3 - Severa,Não,37297.89,452.56,-59.4,5,6
+E40050,Aviação Leve,2 - Moderada,Não,9904.17,149.69,-79.07,5,9
+E40051,Comercial,1 - Leve,Não,37027.02,408.6,-60.97,6,7
+E40052,Comercial,1 - Leve,Não,37581.37,491.55,-74.55,4,6
+E40053,Comercial,2 - Moderada,Sim,33972.96,433.0,-70.58,3,7
+E40054,Comercial,3 - Severa,Não,38275.77,499.08,-71.37,4,10
+E40055,Comercial,1 - Leve,Não,34476.95,491.09,-75.1,5,10
+E40056,Aviação Leve,1 - Leve,Não,7771.91,134.34,-78.21,6,9
+E40057,Comercial,1 - Leve,Sim,35700.4,458.71,-74.88,4,9
+E40058,Aviação Leve,3 - Severa,Sim,10264.8,145.12,-81.49,6,7
+E40059,Comercial,1 - Leve,Sim,34725.98,429.25,-70.17,2,11
+E4005A,Comercial,3 - Severa,Sim,34353.01,504.76,-64.63,4,10
+E4005B,Aviação Leve,1 - Leve,Não,9086.33,143.32,-76.17,4,8
+E4005C,Aviação Leve,1 - Leve,Não,11142.37,151.65,-78.86,7,11
+E4005D,Comercial,1 - Leve,Não,36119.29,474.81,-80.23,5,10
+E4005E,Aviação Leve,1 - Leve,Não,11925.52,185.16,-72.9,2,10
+E4005F,Comercial,1 - Leve,Não,36252.11,430.22,-73.24,2,9
+E40060,Comercial,1 - Leve,Não,34579.64,446.78,-79.88,8,11
+E40061,Comercial,1 - Leve,Não,36869.78,455.19,-74.65,2,7
+E40062,Comercial,2 - Moderada,Não,28674.28,451.99,-61.39,7,9
+E40063,Comercial,1 - Leve,Sim,39895.87,447.46,-75.65,2,7
+E40064,Comercial,1 - Leve,Não,41610.86,417.92,-66.48,2,9
+E40065,Comercial,3 - Severa,Não,36169.23,449.87,-66.32,3,10
+E40066,Comercial,2 - Moderada,Não,36553.93,449.65,-65.74,2,11
+E40067,Comercial,3 - Severa,Não,34926.84,467.15,-61.72,5,12
+E40068,Militar,3 - Severa,Não,37195.92,554.04,-68.17,1,9
+E40069,Comercial,1 - Leve,Não,38436.1,536.05,-69.62,4,11
+E4006A,Comercial,1 - Leve,Não,34862.76,468.0,-64.87,2,9
+E4006B,Aviação Leve,2 - Moderada,Não,10403.3,165.98,-79.64,4,9
+E4006C,Comercial,1 - Leve,Sim,36483.89,377.67,-64.06,4,10
+E4006D,Comercial,1 - Leve,Não,35486.84,514.8,-69.45,3,10
+E4006E,Comercial,2 - Moderada,Não,33067.81,471.4,-73.83,3,8
+E4006F,Comercial,1 - Leve,Não,31550.95,434.96,-72.1,3,6
+E40070,Militar,1 - Leve,Não,45003.13,618.22,-58.92,4,11
+E40071,Aviação Leve,1 - Leve,Não,10222.65,152.58,-82.75,4,11
+E40072,Comercial,1 - Leve,Não,37972.28,479.83,-65.89,3,6
+E40073,Aviação Leve,1 - Leve,Não,10998.21,130.24,-78.19,5,11
+E40074,Aviação Leve,1 - Leve,Não,8554.75,142.4,-84.34,3,6
+E40075,Comercial,2 - Moderada,Não,34230.1,460.85,-64.35,6,12
+E40076,Aviação Leve,1 - Leve,Não,9501.69,130.29,-72.73,1,7
+E40077,Comercial,1 - Leve,Não,37343.93,455.48,-72.26,7,10
+E40078,Aviação Leve,2 - Moderada,Não,8423.2,128.08,-71.36,5,7
+E40079,Aviação Leve,3 - Severa,Não,9228.64,117.27,-79.06,6,10
+E4007A,Comercial,2 - Moderada,Sim,35149.83,467.77,-59.84,7,8
+E4007B,Comercial,2 - Moderada,Não,31727.95,460.22,-61.98,5,11
+E4007C,Comercial,1 - Leve,Não,39501.28,494.69,-66.74,2,10
+E4007D,Comercial,1 - Leve,Não,33770.91,483.61,-64.64,3,8
+E4007E,Aviação Leve,1 - Leve,Não,10984.29,194.67,-74.86,5,9
+E4007F,Aviação Leve,1 - Leve,Não,8787.45,112.0,-78.22,3,7
+E40080,Comercial,1 - Leve,Sim,33689.78,464.27,-72.93,2,9
+E40081,Comercial,1 - Leve,Não,37802.58,442.47,-67.91,2,7
+E40082,Comercial,2 - Moderada,Não,34180.26,464.35,-63.05,4,9
+E40083,Comercial,1 - Leve,Não,32832.17,452.36,-72.67,4,6
+E40084,Comercial,1 - Leve,Não,33809.45,484.48,-66.42,5,6
+E40085,Comercial,1 - Leve,Não,35483.97,453.66,-63.46,5,10
+E40086,Militar,1 - Leve,Não,42114.52,557.95,-81.07,2,7
+E40087,Comercial,1 - Leve,Não,34664.3,474.62,-72.9,5,7
+E40088,Comercial,2 - Moderada,Não,35221.64,465.52,-71.71,5,10
+E40089,Aviação Leve,1 - Leve,Não,9057.5,137.11,-76.88,1,9
+E4008A,Comercial,1 - Leve,Não,35001.32,476.83,-76.66,3,11
+E4008B,Militar,1 - Leve,Não,31356.04,512.75,-73.92,2,8
+E4008C,Militar,2 - Moderada,Não,39096.36,669.89,-61.71,4,10
+E4008D,Comercial,1 - Leve,Não,35751.19,449.62,-55.38,3,11
+E4008E,Comercial,1 - Leve,Não,36676.2,429.99,-77.32,7,9
+E4008F,Comercial,1 - Leve,Não,37044.72,495.69,-63.14,5,9
+E40090,Comercial,1 - Leve,Não,32026.47,505.99,-73.4,6,7
+E40091,Comercial,2 - Moderada,Sim,36595.98,435.4,-76.48,5,6
+E40092,Comercial,2 - Moderada,Sim,35102.3,431.94,-63.56,4,9
+E40093,Comercial,1 - Leve,Sim,33716.97,417.29,-74.8,7,11
+E40094,Comercial,2 - Moderada,Não,34428.5,432.16,-83.37,4,8
+E40095,Comercial,2 - Moderada,Não,34522.43,457.83,-67.91,2,9
+E40096,Militar,2 - Moderada,Não,41094.36,620.09,-72.27,4,9
+E40097,Comercial,2 - Moderada,Não,37785.8,463.38,-58.71,8,10
+E40098,Comercial,1 - Leve,Sim,36682.15,476.57,-70.12,4,9
+E40099,Comercial,1 - Leve,Não,33566.0,487.46,-72.45,3,10
+E4009A,Militar,1 - Leve,Não,35795.75,509.29,-62.85,7,8
+E4009B,Comercial,2 - Moderada,Não,35127.22,478.77,-63.94,1,9
+E4009C,Aviação Leve,1 - Leve,Não,7258.73,130.09,-78.83,6,7
+E4009D,Aviação Leve,2 - Moderada,Não,7199.54,132.49,-78.33,2,9
+E4009E,Comercial,2 - Moderada,Não,35052.22,466.46,-75.56,3,10
+E4009F,Aviação Leve,1 - Leve,Não,8637.09,151.1,-85.95,7,7
+E400A0,Comercial,2 - Moderada,Não,32221.36,466.9,-65.01,4,9
+E400A1,Comercial,1 - Leve,Não,37850.37,427.24,-62.91,6,10
+E400A2,Comercial,1 - Leve,Não,34414.95,473.06,-62.08,3,9
+E400A3,Comercial,2 - Moderada,Não,34810.12,429.51,-68.93,4,10
+E400A4,Comercial,1 - Leve,Não,30980.85,465.17,-55.86,6,7
+E400A5,Aviação Leve,2 - Moderada,Não,9509.52,160.15,-82.94,0,9
+E400A6,Comercial,2 - Moderada,Sim,29470.35,502.94,-76.54,4,8
+E400A7,Comercial,1 - Leve,Não,34333.37,472.54,-65.77,2,11
+E400A8,Comercial,1 - Leve,Não,31004.69,472.94,-55.85,5,9
+E400A9,Comercial,1 - Leve,Não,31592.06,464.56,-67.75,0,6
+E400AA,Aviação Leve,1 - Leve,Não,10096.24,145.34,-83.13,6,8
+E400AB,Comercial,3 - Severa,Não,36219.68,433.08,-63.01,4,10
+E400AC,Comercial,1 - Leve,Não,32608.91,473.23,-59.1,4,10
+E400AD,Comercial,1 - Leve,Não,35889.03,477.32,-69.24,7,10
+E400AE,Comercial,1 - Leve,Não,31873.98,476.93,-62.71,9,8
+E400AF,Comercial,1 - Leve,Sim,33869.77,455.69,-73.24,3,8
+E400B0,Aviação Leve,2 - Moderada,Não,12439.61,140.55,-80.87,2,8
+E400B1,Comercial,1 - Leve,Não,33381.15,422.36,-77.62,4,9
+E400B2,Militar,2 - Moderada,Não,33160.53,645.41,-68.79,4,8
+E400B3,Comercial,1 - Leve,Não,36976.56,498.6,-75.47,1,9
+E400B4,Comercial,3 - Severa,Não,35035.68,433.29,-70.44,6,11
+E400B5,Comercial,1 - Leve,Não,36715.8,416.87,-56.1,3,9
+E400B6,Militar,1 - Leve,Não,47792.29,595.74,-70.29,6,6
+E400B7,Aviação Leve,3 - Severa,Não,7637.56,170.4,-81.24,8,8
+E400B8,Comercial,1 - Leve,Não,31372.06,459.66,-75.51,4,9
+E400B9,Aviação Leve,3 - Severa,Sim,10009.08,138.41,-74.45,4,9
+E400BA,Aviação Leve,1 - Leve,Não,5854.1,148.58,-74.51,3,7
+E400BB,Comercial,1 - Leve,Não,36010.74,489.04,-63.56,6,9
+E400BC,Comercial,1 - Leve,Não,30553.53,468.95,-71.03,4,10
+E400BD,Comercial,2 - Moderada,Sim,34796.19,479.33,-83.35,2,6
+E400BE,Comercial,1 - Leve,Não,32281.89,429.6,-63.92,3,7
+E400BF,Aviação Leve,1 - Leve,Não,7891.69,140.47,-68.93,2,10
+E400C0,Militar,1 - Leve,Não,46015.26,536.04,-67.25,7,9
+E400C1,Comercial,1 - Leve,Não,36155.15,500.87,-78.32,3,9
+E400C2,Comercial,1 - Leve,Não,35213.3,437.37,-72.98,5,11
+E400C3,Comercial,2 - Moderada,Sim,36306.29,475.92,-67.37,4,6
+E400C4,Aviação Leve,3 - Severa,Não,10410.63,117.94,-69.58,3,9
+E400C5,Aviação Leve,3 - Severa,Não,8102.72,145.6,-85.65,4,7
+E400C6,Aviação Leve,2 - Moderada,Não,10349.41,141.7,-73.72,5,10
+E400C7,Aviação Leve,1 - Leve,Não,10742.72,159.69,-78.59,6,9
+E400C8,Comercial,2 - Moderada,Não,36664.81,471.8,-62.97,4,12
+E400C9,Comercial,1 - Leve,Não,33456.87,423.62,-75.33,3,8
+E400CA,Comercial,1 - Leve,Não,36098.75,481.81,-65.25,5,9
+E400CB,Aviação Leve,1 - Leve,Não,11844.29,101.96,-78.6,1,9
+E400CC,Comercial,1 - Leve,Não,36738.84,483.77,-69.76,4,11
+E400CD,Comercial,2 - Moderada,Não,34821.0,458.31,-65.27,1,10
+E400CE,Comercial,1 - Leve,Não,37225.96,476.11,-65.0,4,11
+E400CF,Aviação Leve,1 - Leve,Não,9569.68,177.75,-77.68,5,10
+E400D0,Comercial,1 - Leve,Não,36230.05,445.27,-80.92,0,9
+E400D1,Comercial,3 - Severa,Não,37742.88,428.72,-74.07,3,9
+E400D2,Comercial,1 - Leve,Não,37649.84,477.28,-63.9,1,9
+E400D3,Aviação Leve,1 - Leve,Não,7587.66,146.26,-83.12,3,9
+E400D4,Aviação Leve,1 - Leve,Não,8058.88,120.65,-90.18,3,10
+E400D5,Comercial,2 - Moderada,Não,37781.72,440.81,-68.91,1,10
+E400D6,Aviação Leve,1 - Leve,Não,8749.88,114.27,-86.93,2,11
+E400D7,Comercial,1 - Leve,Não,38089.53,475.15,-68.92,6,7
+E400D8,Comercial,1 - Leve,Não,37793.5,500.56,-70.16,7,9
+E400D9,Aviação Leve,1 - Leve,Não,7643.53,139.7,-82.22,3,10
+E400DA,Comercial,1 - Leve,Não,35859.47,458.64,-67.8,4,10
+E400DB,Aviação Leve,1 - Leve,Não,8438.11,172.24,-82.91,3,7
+E400DC,Aviação Leve,3 - Severa,Sim,6915.34,128.27,-89.97,5,8
+E400DD,Comercial,1 - Leve,Não,33374.94,411.07,-68.77,0,8
+E400DE,Comercial,1 - Leve,Não,35518.17,461.94,-72.33,5,9
+E400DF,Comercial,3 - Severa,Sim,35442.05,457.67,-66.89,2,10
+E400E0,Comercial,1 - Leve,Sim,39183.63,497.53,-75.8,1,6
+E400E1,Comercial,1 - Leve,Não,37074.33,493.32,-61.92,1,8
+E400E2,Militar,1 - Leve,Não,36285.31,539.54,-56.88,4,10
+E400E3,Comercial,1 - Leve,Não,35678.74,453.98,-66.34,1,7
+E400E4,Aviação Leve,3 - Severa,Não,10966.24,166.05,-79.84,4,8
+E400E5,Comercial,1 - Leve,Não,34891.31,450.84,-77.74,4,10
+E400E6,Aviação Leve,2 - Moderada,Não,11074.09,138.99,-73.48,2,9
+E400E7,Comercial,1 - Leve,Não,32450.84,435.8,-68.85,4,10
+E400E8,Comercial,1 - Leve,Não,34671.32,483.13,-70.62,3,11
+E400E9,Comercial,1 - Leve,Não,30983.56,460.44,-68.52,6,8
+E400EA,Comercial,1 - Leve,Não,31769.34,479.31,-71.02,5,10
+E400EB,Aviação Leve,1 - Leve,Sim,9868.88,151.47,-73.46,6,8
+E400EC,Comercial,2 - Moderada,Sim,33040.59,440.66,-73.5,2,5
+E400ED,Comercial,1 - Leve,Não,32920.44,507.74,-69.8,3,11
+E400EE,Comercial,3 - Severa,Não,33549.87,466.7,-65.0,4,9
+E400EF,Comercial,1 - Leve,Não,36180.01,420.79,-66.76,7,8
+E400F0,Militar,2 - Moderada,Não,44650.46,638.8,-69.34,3,8
+E400F1,Militar,2 - Moderada,Não,41159.34,598.46,-58.63,5,8
+E400F2,Militar,2 - Moderada,Não,37698.86,514.04,-61.87,3,10
+E400F3,Comercial,2 - Moderada,Não,36803.91,519.96,-72.5,5,9
+E400F4,Comercial,2 - Moderada,Não,33485.35,508.14,-56.04,4,9
+E400F5,Militar,1 - Leve,Sim,37780.04,563.65,-76.41,2,6
+E400F6,Comercial,1 - Leve,Não,35063.47,406.25,-68.08,4,10
+E400F7,Militar,1 - Leve,Não,38103.14,603.86,-66.63,1,7
+E400F8,Militar,3 - Severa,Sim,35722.67,634.73,-65.95,1,10
+E400F9,Aviação Leve,1 - Leve,Não,9108.34,154.77,-86.31,6,5
+E400FA,Comercial,2 - Moderada,Não,36426.53,487.11,-69.99,6,8
+E400FB,Comercial,1 - Leve,Não,33469.41,462.79,-77.96,7,9
+E400FC,Aviação Leve,1 - Leve,Não,7608.5,121.2,-74.15,3,9
+E400FD,Comercial,1 - Leve,Não,36368.16,427.92,-76.18,4,10
+E400FE,Comercial,1 - Leve,Não,34425.5,436.16,-66.95,5,10
+E400FF,Comercial,1 - Leve,Não,42463.15,471.69,-62.92,3,11
+E40100,Militar,1 - Leve,Não,42764.4,623.38,-49.6,6,11
+E40101,Aviação Leve,1 - Leve,Não,7916.76,127.22,-73.72,7,10
+E40102,Comercial,1 - Leve,Não,33956.58,451.74,-62.15,5,8
+E40103,Comercial,1 - Leve,Não,37296.14,452.13,-65.45,3,9
+E40104,Comercial,1 - Leve,Não,34457.46,451.36,-53.44,3,11
+E40105,Militar,2 - Moderada,Não,42818.43,581.97,-68.15,3,7
+E40106,Comercial,1 - Leve,Não,37553.46,518.48,-77.52,4,9
+E40107,Comercial,1 - Leve,Não,30300.19,490.41,-61.67,3,6
+E40108,Aviação Leve,1 - Leve,Não,5809.95,145.06,-75.38,6,8
+E40109,Aviação Leve,1 - Leve,Não,10793.98,149.53,-85.34,4,10
+E4010A,Aviação Leve,1 - Leve,Não,8246.52,137.65,-85.97,1,9
+E4010B,Aviação Leve,1 - Leve,Não,10411.59,142.62,-76.59,5,9
+E4010C,Comercial,1 - Leve,Não,34250.81,458.59,-52.28,6,12
+E4010D,Comercial,1 - Leve,Sim,32220.08,429.3,-62.97,3,12
+E4010E,Aviação Leve,1 - Leve,Não,9892.89,176.66,-75.02,5,11
+E4010F,Aviação Leve,2 - Moderada,Não,10044.82,107.46,-79.49,7,10
+E40110,Aviação Leve,2 - Moderada,Não,7653.05,141.35,-84.4,6,9
+E40111,Militar,1 - Leve,Não,40733.2,574.84,-57.42,6,9
+E40112,Comercial,1 - Leve,Não,33483.25,465.92,-60.8,6,11
+E40113,Comercial,1 - Leve,Não,33770.24,429.82,-72.13,4,8
+E40114,Aviação Leve,1 - Leve,Não,8625.92,141.68,-82.84,2,9
+E40115,Comercial,3 - Severa,Sim,29486.08,496.1,-62.19,5,10
+E40116,Aviação Leve,1 - Leve,Não,10412.13,124.52,-79.61,4,12
+E40117,Aviação Leve,1 - Leve,Não,9490.87,149.83,-65.9,4,11
+E40118,Aviação Leve,1 - Leve,Não,10140.19,171.2,-72.36,3,9
+E40119,Comercial,2 - Moderada,Não,36972.64,427.96,-67.66,4,11
+E4011A,Comercial,1 - Leve,Não,38508.42,479.54,-70.66,4,10
+E4011B,Comercial,1 - Leve,Não,33801.27,469.97,-66.69,5,9
+E4011C,Comercial,1 - Leve,Não,39249.89,490.0,-66.86,4,9
+E4011D,Comercial,1 - Leve,Não,37353.28,457.41,-75.3,6,10
+E4011E,Comercial,1 - Leve,Não,32880.92,441.74,-74.54,4,10
+E4011F,Comercial,1 - Leve,Não,33038.1,483.82,-68.94,1,9
+E40120,Comercial,1 - Leve,Não,32730.61,502.54,-64.94,1,7
+E40121,Comercial,1 - Leve,Não,37576.45,485.94,-74.59,3,8
+E40122,Comercial,1 - Leve,Não,35429.6,475.49,-75.05,6,9
+E40123,Comercial,1 - Leve,Não,32762.33,431.63,-63.79,4,10
+E40124,Aviação Leve,1 - Leve,Não,10687.44,122.81,-73.58,1,10
+E40125,Comercial,1 - Leve,Não,36564.08,433.42,-59.39,5,7
+E40126,Comercial,2 - Moderada,Não,35874.13,416.19,-67.43,2,11
+E40127,Comercial,1 - Leve,Não,34341.38,478.78,-69.75,2,5
+E40128,Aviação Leve,1 - Leve,Não,9969.08,150.69,-74.25,5,8
+E40129,Comercial,1 - Leve,Não,31161.07,492.52,-72.87,3,8
+E4012A,Comercial,1 - Leve,Não,32458.29,453.17,-68.24,4,11
+E4012B,Comercial,2 - Moderada,Não,34663.76,409.26,-64.16,5,9
+E4012C,Comercial,1 - Leve,Não,36555.17,497.21,-65.68,5,9
+E4012D,Comercial,3 - Severa,Não,37727.45,487.07,-66.02,2,11
+E4012E,Comercial,1 - Leve,Não,35362.22,460.67,-70.11,4,10
+E4012F,Comercial,1 - Leve,Não,38908.53,422.09,-71.32,4,7
+E40130,Aviação Leve,2 - Moderada,Não,10014.71,107.2,-73.0,7,9
+E40131,Militar,2 - Moderada,Não,44717.97,586.36,-68.57,2,9
+E40132,Comercial,2 - Moderada,Não,32352.73,501.49,-56.22,1,11
+E40133,Comercial,2 - Moderada,Não,35009.24,423.27,-62.79,5,8
+E40134,Aviação Leve,1 - Leve,Não,11223.22,175.33,-73.5,4,8
+E40135,Comercial,2 - Moderada,Não,32800.46,486.67,-65.16,2,9
+E40136,Comercial,1 - Leve,Não,38885.4,483.91,-65.51,7,9
+E40137,Comercial,2 - Moderada,Não,36158.22,432.55,-49.63,4,9
+E40138,Comercial,1 - Leve,Não,35603.3,427.77,-65.68,5,9
+E40139,Militar,2 - Moderada,Sim,40141.22,494.35,-56.21,5,10
+E4013A,Aviação Leve,1 - Leve,Não,9396.47,136.87,-76.44,2,7
+E4013B,Aviação Leve,1 - Leve,Não,8438.41,150.97,-71.61,4,9
+E4013C,Comercial,1 - Leve,Não,36573.82,437.48,-62.63,7,10
+E4013D,Comercial,2 - Moderada,Não,33421.06,468.08,-67.55,3,9
+E4013E,Comercial,1 - Leve,Não,33708.93,454.5,-69.24,7,8
+E4013F,Comercial,1 - Leve,Não,33133.55,441.53,-72.23,8,10
+E40140,Comercial,1 - Leve,Não,33772.12,452.02,-69.54,5,10
+E40141,Aviação Leve,1 - Leve,Não,9161.9,114.36,-81.7,3,8
+E40142,Aviação Leve,2 - Moderada,Não,7815.52,126.24,-81.9,4,10
+E40143,Comercial,1 - Leve,Não,34120.2,498.34,-74.83,2,8
+E40144,Militar,3 - Severa,Não,43499.12,559.34,-66.89,3,11
+E40145,Aviação Leve,1 - Leve,Não,8202.62,110.47,-79.2,5,8
+E40146,Comercial,1 - Leve,Não,34100.93,468.43,-66.9,4,11
+E40147,Comercial,2 - Moderada,Não,41732.58,420.06,-63.31,3,12
+E40148,Comercial,1 - Leve,Não,34798.5,436.67,-62.51,5,7
+E40149,Comercial,1 - Leve,Não,33626.15,426.8,-81.93,4,9
+E4014A,Comercial,1 - Leve,Não,39581.39,482.8,-65.11,6,10
+E4014B,Aviação Leve,2 - Moderada,Não,10016.23,167.03,-76.91,8,10
+E4014C,Comercial,1 - Leve,Não,34302.79,483.66,-68.29,0,9
+E4014D,Comercial,3 - Severa,Não,31487.03,366.91,-76.81,5,9
+E4014E,Comercial,3 - Severa,Não,37378.62,449.74,-78.22,2,5
+E4014F,Comercial,1 - Leve,Não,32688.84,446.24,-65.93,5,6
+E40150,Aviação Leve,1 - Leve,Não,12165.79,174.27,-60.25,1,9
+E40151,Aviação Leve,1 - Leve,Não,9277.34,107.26,-71.09,2,9
+E40152,Comercial,1 - Leve,Não,35541.94,429.28,-71.53,3,9
+E40153,Comercial,1 - Leve,Não,32906.84,472.38,-70.58,4,8
+E40154,Comercial,1 - Leve,Não,32237.84,466.18,-60.69,1,11
+E40155,Comercial,1 - Leve,Não,33717.01,463.25,-73.07,3,10
+E40156,Comercial,2 - Moderada,Não,33671.96,473.55,-74.61,6,11
+E40157,Comercial,2 - Moderada,Não,36703.4,449.9,-64.77,6,11
+E40158,Comercial,2 - Moderada,Não,36337.04,494.41,-71.82,7,10
+E40159,Comercial,1 - Leve,Não,36145.97,439.99,-69.57,5,9
+E4015A,Comercial,1 - Leve,Não,32658.73,441.3,-66.25,3,8
+E4015B,Comercial,1 - Leve,Não,34531.68,504.55,-69.23,6,9
+E4015C,Comercial,3 - Severa,Não,28131.24,446.01,-71.16,5,10
+E4015D,Comercial,1 - Leve,Não,38470.84,443.22,-74.66,4,11
+E4015E,Comercial,2 - Moderada,Sim,36920.52,466.03,-64.95,6,9
+E4015F,Aviação Leve,1 - Leve,Não,14996.73,146.01,-82.1,3,10
+E40160,Aviação Leve,1 - Leve,Não,9097.57,150.17,-78.36,3,9
+E40161,Comercial,2 - Moderada,Não,33939.41,466.98,-73.36,5,6
+E40162,Comercial,1 - Leve,Não,33959.51,428.36,-70.7,7,11
+E40163,Comercial,2 - Moderada,Não,38142.87,469.1,-70.68,4,10
+E40164,Comercial,2 - Moderada,Sim,36713.77,511.76,-69.05,5,9
+E40165,Comercial,1 - Leve,Não,36671.64,502.95,-67.17,4,6
+E40166,Militar,1 - Leve,Não,40182.27,586.47,-63.36,9,8
+E40167,Comercial,1 - Leve,Não,35630.6,479.46,-76.77,2,7
+E40168,Comercial,2 - Moderada,Não,37172.89,447.24,-73.34,4,10
+E40169,Comercial,1 - Leve,Não,37388.25,487.76,-61.77,5,5
+E4016A,Comercial,1 - Leve,Não,33490.05,453.57,-77.84,8,11
+E4016B,Comercial,1 - Leve,Não,34018.82,446.88,-74.93,3,11
+E4016C,Militar,2 - Moderada,Não,42361.04,526.88,-63.4,3,7
+E4016D,Comercial,1 - Leve,Não,27522.16,518.12,-70.23,2,7
+E4016E,Militar,2 - Moderada,Não,42960.02,673.66,-70.64,7,11
+E4016F,Militar,2 - Moderada,Não,48338.93,575.14,-59.84,2,11
+E40170,Comercial,1 - Leve,Não,32938.71,442.96,-71.17,6,11
+E40171,Comercial,1 - Leve,Não,32358.61,466.42,-57.72,5,11
+E40172,Comercial,3 - Severa,Sim,30219.36,458.08,-76.21,7,10
+E40173,Comercial,1 - Leve,Não,39968.19,463.44,-74.05,4,6
+E40174,Comercial,2 - Moderada,Não,38159.27,436.3,-64.74,1,8
+E40175,Aviação Leve,1 - Leve,Não,9779.73,179.37,-71.52,4,8
+E40176,Comercial,1 - Leve,Não,30862.78,433.12,-68.74,6,8
+E40177,Comercial,2 - Moderada,Não,35233.43,431.21,-68.58,1,9
+E40178,Aviação Leve,1 - Leve,Não,11622.95,155.84,-77.42,7,8
+E40179,Comercial,1 - Leve,Não,34469.48,411.16,-64.51,4,9
+E4017A,Aviação Leve,1 - Leve,Não,6829.07,129.51,-81.31,2,10
+E4017B,Comercial,1 - Leve,Não,39719.22,420.34,-64.08,3,9
+E4017C,Comercial,1 - Leve,Não,37706.73,446.81,-68.56,4,9
+E4017D,Aviação Leve,1 - Leve,Não,11356.12,165.76,-82.15,3,8
+E4017E,Comercial,3 - Severa,Não,31201.63,380.7,-70.71,5,6
+E4017F,Aviação Leve,1 - Leve,Não,10272.44,153.72,-74.31,4,9
+E40180,Aviação Leve,1 - Leve,Não,6882.36,138.01,-76.48,2,8
+E40181,Aviação Leve,1 - Leve,Não,10128.91,144.52,-82.11,3,11
+E40182,Comercial,2 - Moderada,Não,36133.77,432.5,-67.65,5,8
+E40183,Comercial,1 - Leve,Não,36117.18,456.23,-72.24,2,10
+E40184,Aviação Leve,3 - Severa,Não,10354.3,147.83,-82.69,3,11
+E40185,Aviação Leve,1 - Leve,Não,9813.9,105.66,-68.85,8,10
+E40186,Militar,1 - Leve,Não,42787.06,655.85,-73.6,4,9
+E40187,Comercial,1 - Leve,Não,33226.4,430.06,-78.72,3,11
+E40188,Comercial,1 - Leve,Não,33611.13,465.72,-75.21,8,7
+E40189,Aviação Leve,1 - Leve,Não,8946.05,123.4,-80.34,6,11
+E4018A,Comercial,1 - Leve,Não,31213.82,469.0,-57.47,3,7
+E4018B,Militar,2 - Moderada,Não,41077.29,609.45,-65.79,5,8
+E4018C,Aviação Leve,1 - Leve,Não,9815.37,157.47,-88.15,3,10
+E4018D,Comercial,1 - Leve,Não,39256.29,515.72,-65.89,2,9
+E4018E,Aviação Leve,1 - Leve,Não,10585.22,154.95,-76.13,2,8
+E4018F,Aviação Leve,2 - Moderada,Não,9152.06,140.82,-68.68,1,9
+E40190,Comercial,1 - Leve,Não,34535.39,468.68,-68.34,3,8
+E40191,Militar,1 - Leve,Não,46119.68,627.01,-76.35,4,10
+E40192,Comercial,1 - Leve,Não,34763.85,471.75,-73.18,1,9
+E40193,Aviação Leve,2 - Moderada,Não,11291.25,169.24,-81.79,6,5
+E40194,Comercial,1 - Leve,Não,39123.7,489.98,-72.38,3,10
+E40195,Aviação Leve,1 - Leve,Não,10005.98,152.98,-87.21,5,9
+E40196,Comercial,2 - Moderada,Não,36126.51,407.65,-74.97,4,10
+E40197,Comercial,2 - Moderada,Não,34292.15,501.89,-70.86,5,8
+E40198,Militar,1 - Leve,Não,40184.07,548.43,-56.66,3,8
+E40199,Comercial,2 - Moderada,Não,39138.52,449.54,-71.04,4,10
+E4019A,Comercial,1 - Leve,Sim,34651.51,480.71,-79.46,3,11
+E4019B,Militar,1 - Leve,Não,46536.87,579.97,-63.78,6,12
+E4019C,Militar,1 - Leve,Não,40625.22,587.93,-76.12,2,9
+E4019D,Comercial,1 - Leve,Não,38737.35,411.45,-65.95,7,9
+E4019E,Comercial,1 - Leve,Não,36183.68,452.51,-62.92,2,5
+E4019F,Comercial,3 - Severa,Não,29681.93,493.89,-69.61,3,9
+E401A0,Comercial,1 - Leve,Não,33230.94,440.06,-68.66,3,10
+E401A1,Comercial,1 - Leve,Não,32758.39,478.97,-72.65,4,7
+E401A2,Aviação Leve,1 - Leve,Não,5430.22,138.25,-86.31,3,9
+E401A3,Aviação Leve,3 - Severa,Não,7216.21,149.54,-87.49,4,9
+E401A4,Aviação Leve,1 - Leve,Não,8650.9,153.21,-81.67,4,11
+E401A5,Aviação Leve,1 - Leve,Não,8527.56,175.57,-84.92,2,10
+E401A6,Comercial,1 - Leve,Não,34758.44,448.35,-73.67,3,7
+E401A7,Comercial,1 - Leve,Não,36520.62,474.66,-69.95,3,9
+E401A8,Comercial,3 - Severa,Não,32494.46,438.93,-76.8,3,10
+E401A9,Comercial,3 - Severa,Não,33746.49,474.46,-62.16,6,9
+E401AA,Comercial,1 - Leve,Não,32240.83,450.74,-72.68,1,7
+E401AB,Aviação Leve,3 - Severa,Não,11362.8,138.22,-79.65,2,10
+E401AC,Comercial,1 - Leve,Não,37232.38,511.23,-70.46,4,9
+E401AD,Comercial,2 - Moderada,Não,36780.81,423.2,-57.4,1,6
+E401AE,Comercial,1 - Leve,Não,36781.78,407.27,-70.23,5,10
+E401AF,Aviação Leve,1 - Leve,Não,10112.24,161.7,-73.66,4,8
+E401B0,Comercial,1 - Leve,Não,32619.21,441.04,-72.64,3,9
+E401B1,Comercial,1 - Leve,Não,37075.48,447.31,-62.63,11,8
+E401B2,Comercial,1 - Leve,Não,39168.06,502.65,-63.59,3,10
+E401B3,Aviação Leve,1 - Leve,Não,11994.52,161.52,-84.13,6,10
+E401B4,Comercial,1 - Leve,Não,32374.65,481.21,-59.78,5,8
+E401B5,Aviação Leve,2 - Moderada,Sim,10473.28,164.31,-75.4,3,10
+E401B6,Aviação Leve,1 - Leve,Não,8314.41,167.49,-71.77,4,9
+E401B7,Comercial,1 - Leve,Não,34902.45,451.13,-68.14,7,10
+E401B8,Comercial,3 - Severa,Sim,32322.87,513.52,-75.68,7,12
+E401B9,Militar,1 - Leve,Não,41795.82,602.05,-63.46,7,6
+E401BA,Comercial,1 - Leve,Não,35461.78,486.26,-67.93,2,9
+E401BB,Comercial,1 - Leve,Não,42171.01,465.5,-72.79,5,6
+E401BC,Aviação Leve,2 - Moderada,Não,9258.08,158.89,-74.47,3,11
+E401BD,Militar,1 - Leve,Não,37920.74,694.59,-62.29,5,9
+E401BE,Militar,1 - Leve,Não,43682.37,648.2,-61.43,4,10
+E401BF,Aviação Leve,2 - Moderada,Não,9707.33,156.75,-87.1,6,8
+E401C0,Comercial,3 - Severa,Não,34404.72,461.29,-73.43,4,8
+E401C1,Comercial,1 - Leve,Não,37931.89,404.84,-63.75,6,11
+E401C2,Aviação Leve,1 - Leve,Não,9824.02,156.64,-79.73,5,7
+E401C3,Comercial,1 - Leve,Sim,32817.6,449.43,-66.34,2,10
+E401C4,Comercial,2 - Moderada,Não,32709.31,497.95,-60.98,1,9
+E401C5,Militar,1 - Leve,Não,41564.05,623.46,-44.64,1,6
+E401C6,Comercial,1 - Leve,Não,29619.04,484.54,-77.37,3,7
+E401C7,Comercial,3 - Severa,Sim,38758.55,452.08,-71.71,5,6
+E401C8,Comercial,1 - Leve,Não,38546.33,390.34,-60.34,4,10
+E401C9,Comercial,1 - Leve,Não,35845.06,437.1,-77.8,4,11
+E401CA,Comercial,1 - Leve,Não,32116.62,491.84,-65.97,4,10
+E401CB,Comercial,1 - Leve,Não,32655.19,508.5,-63.78,3,9
+E401CC,Comercial,1 - Leve,Não,36330.02,470.13,-57.43,6,8
+E401CD,Comercial,1 - Leve,Não,34999.22,447.13,-78.43,5,11
+E401CE,Aviação Leve,1 - Leve,Não,8993.95,152.5,-78.43,6,8
+E401CF,Comercial,1 - Leve,Não,32544.24,436.11,-67.49,2,10
+E401D0,Militar,3 - Severa,Não,41823.75,540.28,-74.84,5,10
+E401D1,Comercial,1 - Leve,Não,35644.94,515.18,-68.12,6,8
+E401D2,Comercial,3 - Severa,Não,37284.43,416.72,-58.46,3,9
+E401D3,Aviação Leve,1 - Leve,Não,10303.7,135.66,-60.69,5,8
+E401D4,Comercial,2 - Moderada,Sim,36256.96,510.3,-63.76,5,11
+E401D5,Militar,2 - Moderada,Não,39980.74,569.42,-65.09,6,8
+E401D6,Comercial,1 - Leve,Não,32434.08,494.44,-73.79,3,11
+E401D7,Militar,2 - Moderada,Não,47839.57,465.91,-72.25,6,10
+E401D8,Comercial,2 - Moderada,Não,33701.51,450.45,-65.43,11,8
+E401D9,Aviação Leve,1 - Leve,Não,9608.02,141.74,-81.95,6,7
+E401DA,Comercial,1 - Leve,Não,36145.42,432.57,-74.92,5,10
+E401DB,Militar,1 - Leve,Não,33913.15,578.27,-57.28,5,10
+E401DC,Comercial,2 - Moderada,Não,33227.45,514.69,-71.16,5,9
+E401DD,Comercial,2 - Moderada,Não,35444.38,464.83,-64.93,2,10
+E401DE,Militar,2 - Moderada,Não,40674.74,524.26,-53.84,11,8
+E401DF,Comercial,1 - Leve,Não,39517.99,436.67,-70.17,4,8
+E401E0,Comercial,2 - Moderada,Não,36264.91,439.61,-55.01,2,11
+E401E1,Aviação Leve,1 - Leve,Não,11166.77,111.77,-70.64,3,9
+E401E2,Comercial,1 - Leve,Não,32959.46,462.19,-62.83,3,8
+E401E3,Comercial,1 - Leve,Não,35347.65,438.42,-70.64,3,10
+E401E4,Comercial,1 - Leve,Não,39931.36,421.19,-64.97,3,9
+E401E5,Militar,1 - Leve,Não,47254.28,587.48,-69.82,9,11
+E401E6,Comercial,1 - Leve,Não,36228.57,475.95,-66.83,4,9
+E401E7,Comercial,1 - Leve,Não,34752.89,475.67,-72.88,6,11
+E401E8,Militar,1 - Leve,Não,42831.1,450.73,-59.23,1,8
+E401E9,Aviação Leve,1 - Leve,Não,9676.65,169.82,-78.67,4,10
+E401EA,Comercial,1 - Leve,Não,33312.66,448.71,-56.05,7,10
+E401EB,Comercial,1 - Leve,Não,32919.85,463.69,-71.54,5,8
+E401EC,Comercial,1 - Leve,Não,31768.44,445.1,-71.64,1,11
+E401ED,Comercial,1 - Leve,Não,34806.95,469.12,-60.75,3,9
+E401EE,Comercial,1 - Leve,Não,35631.42,498.77,-65.33,7,10
+E401EF,Comercial,1 - Leve,Não,37753.31,417.4,-57.52,1,10
+E401F0,Comercial,1 - Leve,Não,40681.09,484.89,-64.56,4,7
+E401F1,Comercial,1 - Leve,Não,31809.24,499.21,-64.67,3,8
+E401F2,Militar,1 - Leve,Não,43920.69,527.24,-64.78,5,11
+E401F3,Militar,2 - Moderada,Não,37619.14,561.55,-67.84,2,8
+E401F4,Aviação Leve,1 - Leve,Não,9321.28,134.91,-101.44,4,9
+E401F5,Comercial,1 - Leve,Não,40132.43,454.46,-66.87,4,7
+E401F6,Comercial,1 - Leve,Não,39239.31,513.12,-67.06,4,10
+E401F7,Aviação Leve,1 - Leve,Não,10932.94,182.87,-73.23,6,9
+E401F8,Aviação Leve,1 - Leve,Não,8863.63,141.06,-78.73,8,9
+E401F9,Comercial,1 - Leve,Não,34797.8,414.15,-67.28,5,9
+E401FA,Militar,1 - Leve,Não,45106.83,474.19,-55.92,3,9
+E401FB,Aviação Leve,1 - Leve,Sim,11440.89,97.46,-80.59,4,10
+E401FC,Militar,1 - Leve,Não,36755.49,561.66,-53.29,4,8
+E401FD,Aviação Leve,2 - Moderada,Sim,10430.9,119.91,-82.53,4,9
+E401FE,Comercial,2 - Moderada,Não,36240.5,445.01,-64.93,7,6
+E401FF,Comercial,2 - Moderada,Não,39837.89,434.87,-75.87,5,10
+E40200,Militar,3 - Severa,Não,41189.94,592.82,-67.51,5,8
+E40201,Aviação Leve,1 - Leve,Não,7578.55,134.25,-69.38,6,7
+E40202,Comercial,1 - Leve,Não,39280.1,411.07,-65.39,2,8
+E40203,Comercial,1 - Leve,Não,36188.58,464.47,-70.2,7,7
+E40204,Comercial,1 - Leve,Não,38198.8,397.93,-64.98,3,8
+E40205,Aviação Leve,2 - Moderada,Não,6009.42,152.17,-84.63,5,10
+E40206,Militar,1 - Leve,Não,38556.52,525.44,-65.39,3,9
+E40207,Comercial,3 - Severa,Não,40169.77,492.0,-78.4,3,11
+E40208,Comercial,1 - Leve,Não,34741.42,425.31,-55.42,6,9
+E40209,Comercial,3 - Severa,Não,38986.11,493.73,-71.74,7,10
+E4020A,Militar,1 - Leve,Não,44693.55,530.74,-54.36,0,8
+E4020B,Aviação Leve,1 - Leve,Não,9938.38,140.28,-58.47,2,9
+E4020C,Aviação Leve,1 - Leve,Não,8755.96,116.78,-75.23,4,9
+E4020D,Comercial,1 - Leve,Não,41278.89,459.95,-69.37,3,10
+E4020E,Comercial,1 - Leve,Não,36601.36,463.45,-68.68,4,4
+E4020F,Comercial,1 - Leve,Não,31751.96,483.87,-55.28,3,11
+E40210,Comercial,2 - Moderada,Não,37395.96,461.45,-66.63,8,11
+E40211,Aviação Leve,1 - Leve,Não,11004.05,167.56,-74.87,6,10
+E40212,Aviação Leve,1 - Leve,Não,9949.1,148.49,-88.16,3,6
+E40213,Militar,1 - Leve,Não,42205.21,555.39,-69.24,0,6
+E40214,Militar,2 - Moderada,Sim,49924.04,663.22,-50.56,2,8
+E40215,Comercial,1 - Leve,Não,31942.76,418.3,-67.44,3,7
+E40216,Aviação Leve,1 - Leve,Não,11235.42,137.87,-69.45,6,10
+E40217,Militar,1 - Leve,Não,43537.31,584.1,-57.0,4,6
+E40218,Aviação Leve,1 - Leve,Não,11262.93,165.64,-85.79,3,11
+E40219,Comercial,1 - Leve,Não,37517.83,452.25,-65.29,9,11
+E4021A,Comercial,1 - Leve,Não,40124.53,460.02,-63.31,7,11
+E4021B,Comercial,1 - Leve,Não,33022.75,437.41,-78.16,4,9
+E4021C,Militar,2 - Moderada,Não,41142.92,596.13,-65.25,1,8
+E4021D,Comercial,1 - Leve,Não,35989.55,481.28,-61.67,2,10
+E4021E,Comercial,1 - Leve,Não,32535.49,452.04,-60.83,2,6
+E4021F,Aviação Leve,1 - Leve,Não,10752.51,145.4,-89.69,4,9
+E40220,Comercial,3 - Severa,Não,39744.42,433.46,-73.01,7,11
+E40221,Comercial,1 - Leve,Não,36910.07,436.67,-71.83,3,9
+E40222,Comercial,2 - Moderada,Não,34410.08,480.84,-65.47,4,8
+E40223,Aviação Leve,1 - Leve,Não,9873.55,117.85,-87.26,4,8
+E40224,Comercial,1 - Leve,Não,32525.11,459.02,-72.87,4,9
+E40225,Aviação Leve,1 - Leve,Não,7940.33,138.21,-72.26,5,9
+E40226,Comercial,3 - Severa,Não,36020.13,475.42,-65.33,7,10
+E40227,Aviação Leve,1 - Leve,Não,8344.08,124.58,-68.16,3,9
+E40228,Comercial,2 - Moderada,Não,35401.22,521.95,-70.16,3,5
+E40229,Comercial,2 - Moderada,Não,33179.81,456.39,-65.96,3,11
+E4022A,Aviação Leve,1 - Leve,Não,10523.93,155.63,-79.14,6,7
+E4022B,Comercial,1 - Leve,Não,35846.72,471.25,-72.33,5,9
+E4022C,Comercial,1 - Leve,Não,32142.45,482.96,-68.39,6,10
+E4022D,Comercial,1 - Leve,Não,35182.19,454.3,-57.16,1,6
+E4022E,Aviação Leve,2 - Moderada,Não,7932.64,137.92,-76.57,2,9
+E4022F,Comercial,2 - Moderada,Não,38073.04,462.55,-57.16,3,10
+E40230,Aviação Leve,1 - Leve,Não,11285.55,142.27,-73.73,3,10
+E40231,Comercial,1 - Leve,Não,37098.67,473.25,-62.38,6,10
+E40232,Comercial,2 - Moderada,Não,37180.49,451.18,-71.43,3,8
+E40233,Comercial,1 - Leve,Não,35831.52,462.04,-66.88,4,9
+E40234,Comercial,2 - Moderada,Não,32709.2,436.57,-68.84,1,7
+E40235,Comercial,1 - Leve,Sim,35769.03,431.37,-69.82,1,10
+E40236,Comercial,1 - Leve,Não,36060.17,461.1,-76.62,7,11
+E40237,Comercial,1 - Leve,Não,31710.46,383.78,-62.34,7,12
+E40238,Militar,1 - Leve,Não,54620.99,716.94,-65.27,2,9
+E40239,Comercial,1 - Leve,Não,34734.16,416.5,-57.52,5,4
+E4023A,Comercial,1 - Leve,Não,33444.91,476.32,-65.02,3,8
+E4023B,Aviação Leve,1 - Leve,Não,10997.68,115.2,-80.28,4,10
+E4023C,Comercial,2 - Moderada,Não,29953.78,464.06,-63.24,1,7
+E4023D,Comercial,2 - Moderada,Sim,34694.86,420.55,-70.45,3,8
+E4023E,Aviação Leve,1 - Leve,Não,8499.45,154.38,-75.43,5,12
+E4023F,Militar,1 - Leve,Não,41705.85,591.86,-71.29,2,8
+E40240,Comercial,1 - Leve,Sim,38572.14,418.72,-71.52,4,10
+E40241,Militar,1 - Leve,Não,42382.25,584.14,-67.18,5,11
+E40242,Comercial,1 - Leve,Não,33269.37,404.87,-67.38,2,10
+E40243,Comercial,1 - Leve,Não,40105.19,454.05,-58.97,5,9
+E40244,Comercial,1 - Leve,Não,35805.21,459.69,-72.88,4,9
+E40245,Militar,1 - Leve,Não,44457.78,605.86,-67.94,3,10
+E40246,Comercial,1 - Leve,Sim,36661.76,444.52,-61.99,5,10
+E40247,Comercial,1 - Leve,Não,33756.07,430.21,-72.74,7,8
+E40248,Comercial,3 - Severa,Não,30572.33,473.2,-78.99,5,5
+E40249,Comercial,1 - Leve,Não,31928.89,459.55,-62.5,4,8
+E4024A,Comercial,1 - Leve,Não,34624.2,450.85,-74.26,4,10
+E4024B,Comercial,1 - Leve,Não,32069.42,449.23,-66.27,3,10
+E4024C,Comercial,1 - Leve,Não,35452.66,496.49,-64.48,2,10
+E4024D,Comercial,2 - Moderada,Não,33968.97,503.96,-67.59,7,11
+E4024E,Comercial,1 - Leve,Não,34589.16,465.94,-73.96,2,9
+E4024F,Comercial,3 - Severa,Sim,32460.3,486.12,-81.4,6,9
+E40250,Comercial,1 - Leve,Não,32768.03,474.38,-67.79,1,8
+E40251,Comercial,1 - Leve,Não,30078.74,482.13,-60.2,1,8
+E40252,Aviação Leve,2 - Moderada,Sim,8300.9,146.76,-88.12,3,10
+E40253,Comercial,1 - Leve,Não,30517.23,456.24,-65.53,3,10
+E40254,Aviação Leve,1 - Leve,Não,8943.25,123.69,-81.2,4,8
+E40255,Comercial,1 - Leve,Não,35673.24,496.81,-71.39,2,10
+E40256,Comercial,1 - Leve,Não,32059.57,473.65,-60.91,5,10
+E40257,Comercial,2 - Moderada,Não,36202.27,425.02,-74.65,7,10
+E40258,Comercial,1 - Leve,Não,32574.69,448.87,-60.57,4,10
+E40259,Comercial,1 - Leve,Não,35949.42,452.21,-70.02,6,11
+E4025A,Comercial,1 - Leve,Não,37447.22,421.59,-58.35,4,8
+E4025B,Comercial,1 - Leve,Não,37070.57,446.35,-64.8,1,7
+E4025C,Comercial,1 - Leve,Sim,33688.34,473.82,-60.22,2,10
+E4025D,Comercial,1 - Leve,Não,32232.11,428.92,-61.12,7,11
+E4025E,Comercial,1 - Leve,Não,31510.53,476.56,-72.34,3,8
+E4025F,Comercial,2 - Moderada,Não,34511.52,444.99,-69.58,7,10
+E40260,Comercial,1 - Leve,Não,34982.39,453.96,-70.23,7,9
+E40261,Aviação Leve,1 - Leve,Não,8480.15,156.93,-84.46,6,11
+E40262,Comercial,2 - Moderada,Não,35349.72,487.89,-76.34,6,10
+E40263,Aviação Leve,1 - Leve,Não,9720.87,140.57,-73.23,0,8
+E40264,Comercial,1 - Leve,Não,33151.57,493.37,-62.3,8,8
+E40265,Comercial,1 - Leve,Não,35607.51,453.27,-78.02,7,10
+E40266,Aviação Leve,1 - Leve,Não,9922.38,148.16,-92.75,4,10
+E40267,Militar,1 - Leve,Não,37260.67,558.33,-84.3,6,11
+E40268,Comercial,3 - Severa,Sim,35357.62,483.79,-63.84,0,11
+E40269,Comercial,1 - Leve,Não,36456.43,492.23,-69.31,3,5
+E4026A,Aviação Leve,1 - Leve,Não,11450.84,157.79,-74.57,3,8
+E4026B,Aviação Leve,2 - Moderada,Não,10031.5,142.76,-82.55,2,9
+E4026C,Comercial,1 - Leve,Não,39036.95,450.98,-60.05,5,8
+E4026D,Comercial,1 - Leve,Não,31482.96,468.32,-58.27,5,8
+E4026E,Comercial,1 - Leve,Não,37523.68,436.34,-76.99,3,8
+E4026F,Comercial,3 - Severa,Não,34770.39,435.24,-83.53,6,12
+E40270,Comercial,1 - Leve,Não,39638.76,466.28,-70.08,1,10
+E40271,Comercial,1 - Leve,Não,30971.08,481.08,-75.12,5,8
+E40272,Comercial,1 - Leve,Não,32051.58,464.82,-63.97,1,10
+E40273,Aviação Leve,1 - Leve,Não,11639.24,111.51,-71.09,4,6
+E40274,Comercial,1 - Leve,Não,34126.4,438.37,-65.73,3,8
+E40275,Comercial,1 - Leve,Não,38075.56,492.61,-68.52,6,6
+E40276,Aviação Leve,2 - Moderada,Não,10252.68,152.71,-80.24,6,10
+E40277,Aviação Leve,1 - Leve,Não,7709.36,150.66,-63.3,0,7
+E40278,Comercial,1 - Leve,Não,33548.38,442.88,-68.56,3,10
+E40279,Comercial,2 - Moderada,Não,34401.25,471.49,-62.72,4,5
+E4027A,Comercial,3 - Severa,Sim,35123.27,481.53,-71.65,4,11
+E4027B,Comercial,1 - Leve,Não,35907.79,529.58,-60.48,5,9
+E4027C,Comercial,1 - Leve,Não,34007.01,429.14,-65.91,5,8
+E4027D,Comercial,1 - Leve,Não,35216.74,462.16,-67.26,7,9
+E4027E,Comercial,3 - Severa,Não,36420.26,430.61,-59.82,2,9
+E4027F,Comercial,3 - Severa,Não,39101.54,402.38,-65.86,4,5
+E40280,Comercial,1 - Leve,Não,36382.87,444.65,-56.46,7,9
+E40281,Comercial,2 - Moderada,Não,33063.46,472.42,-78.21,4,9
+E40282,Comercial,1 - Leve,Não,29837.29,460.8,-80.47,5,11
+E40283,Comercial,1 - Leve,Não,34199.26,460.82,-69.62,6,8
+E40284,Comercial,1 - Leve,Não,32841.27,459.13,-67.89,4,9
+E40285,Aviação Leve,2 - Moderada,Não,10161.68,143.2,-90.77,8,9
+E40286,Comercial,1 - Leve,Não,33779.32,477.73,-67.86,0,12
+E40287,Aviação Leve,2 - Moderada,Sim,7532.21,147.13,-83.39,2,9
+E40288,Aviação Leve,2 - Moderada,Não,9389.31,134.58,-81.85,1,12
+E40289,Comercial,2 - Moderada,Não,36740.42,458.29,-71.31,1,12
+E4028A,Comercial,1 - Leve,Não,30370.39,481.94,-72.07,6,9
+E4028B,Comercial,1 - Leve,Não,34204.41,466.09,-69.96,8,10
+E4028C,Comercial,1 - Leve,Não,38996.35,482.46,-62.83,4,10
+E4028D,Aviação Leve,1 - Leve,Não,7517.28,174.18,-78.9,2,8
+E4028E,Comercial,1 - Leve,Não,36292.37,453.8,-68.13,8,11
+E4028F,Comercial,3 - Severa,Sim,33277.79,485.95,-54.77,4,10
+E40290,Comercial,1 - Leve,Não,37331.09,448.38,-63.8,3,11
+E40291,Comercial,1 - Leve,Não,42036.64,498.36,-77.8,9,9
+E40292,Comercial,1 - Leve,Não,36150.68,465.46,-74.12,2,8
+E40293,Comercial,1 - Leve,Não,35515.9,445.97,-59.44,5,8
+E40294,Comercial,1 - Leve,Não,36874.75,467.82,-73.71,5,10
+E40295,Militar,1 - Leve,Não,42337.79,632.0,-56.11,5,11
+E40296,Comercial,2 - Moderada,Não,36430.02,440.27,-77.23,6,11
+E40297,Comercial,1 - Leve,Não,34637.74,457.4,-69.48,4,9
+E40298,Comercial,3 - Severa,Não,34029.13,451.44,-64.2,2,6
+E40299,Comercial,2 - Moderada,Sim,33254.5,449.82,-67.7,3,10
+E4029A,Comercial,1 - Leve,Não,38277.92,453.72,-62.84,2,10
+E4029B,Comercial,3 - Severa,Não,35199.5,454.97,-67.03,2,11
+E4029C,Comercial,1 - Leve,Não,32253.45,499.77,-68.68,6,9
+E4029D,Comercial,2 - Moderada,Não,35553.9,488.5,-63.38,5,8
+E4029E,Comercial,1 - Leve,Não,36488.73,443.48,-68.79,0,9
+E4029F,Aviação Leve,2 - Moderada,Não,9601.19,127.35,-86.71,4,7
+E402A0,Comercial,2 - Moderada,Não,38377.68,484.81,-68.38,8,9
+E402A1,Comercial,2 - Moderada,Não,35607.81,489.54,-69.12,3,11
+E402A2,Comercial,2 - Moderada,Não,37865.08,438.23,-58.65,5,10
+E402A3,Militar,1 - Leve,Não,34572.06,543.77,-58.75,5,8
+E402A4,Comercial,1 - Leve,Não,34393.25,407.08,-70.73,5,9
+E402A5,Comercial,1 - Leve,Não,32400.48,463.35,-71.81,3,9
+E402A6,Militar,1 - Leve,Não,42292.24,529.75,-70.17,7,8
+E402A7,Aviação Leve,1 - Leve,Sim,12018.22,147.45,-98.97,5,9
+E402A8,Aviação Leve,1 - Leve,Não,10998.51,167.89,-78.89,2,7
+E402A9,Comercial,3 - Severa,Não,34029.39,461.86,-84.28,6,9
+E402AA,Comercial,1 - Leve,Não,36547.22,505.87,-65.71,3,8
+E402AB,Aviação Leve,2 - Moderada,Não,9936.31,102.57,-82.12,3,10
+E402AC,Militar,1 - Leve,Não,38837.91,603.39,-64.42,3,8
+E402AD,Comercial,2 - Moderada,Não,37819.45,398.44,-60.08,5,7
+E402AE,Comercial,3 - Severa,Não,36316.34,446.63,-71.9,5,10
+E402AF,Comercial,1 - Leve,Não,35210.42,407.87,-67.33,1,8
+E402B0,Aviação Leve,1 - Leve,Não,8894.12,159.29,-80.38,4,8
+E402B1,Comercial,2 - Moderada,Não,34384.04,455.72,-58.95,7,11
+E402B2,Comercial,1 - Leve,Não,33789.57,432.95,-69.05,4,9
+E402B3,Comercial,1 - Leve,Não,36228.76,422.78,-68.37,5,11
+E402B4,Comercial,1 - Leve,Não,39533.52,450.4,-66.33,2,6
+E402B5,Comercial,1 - Leve,Não,33726.97,457.26,-74.65,2,8
+E402B6,Comercial,1 - Leve,Não,33958.44,458.23,-65.63,4,11
+E402B7,Comercial,1 - Leve,Não,35658.88,412.17,-52.17,4,11
+E402B8,Comercial,1 - Leve,Não,37743.25,416.16,-86.05,4,9
+E402B9,Comercial,1 - Leve,Não,36427.95,413.89,-64.37,5,10
+E402BA,Comercial,3 - Severa,Sim,35276.34,442.46,-65.04,7,11
+E402BB,Comercial,1 - Leve,Não,27863.43,443.74,-69.55,2,9
+E402BC,Comercial,3 - Severa,Sim,36994.61,407.94,-67.73,3,10
+E402BD,Comercial,1 - Leve,Não,36395.84,450.5,-77.86,6,11
+E402BE,Comercial,1 - Leve,Não,35811.15,409.49,-82.35,7,8
+E402BF,Comercial,1 - Leve,Não,37111.94,530.32,-68.24,6,7
+E402C0,Comercial,1 - Leve,Não,39672.04,471.75,-66.34,5,8
+E402C1,Militar,1 - Leve,Não,41035.94,660.76,-68.27,3,8
+E402C2,Comercial,1 - Leve,Não,31092.41,426.98,-59.39,3,10
+E402C3,Aviação Leve,1 - Leve,Não,9013.78,151.4,-67.07,5,10
+E402C4,Comercial,1 - Leve,Não,33525.27,479.56,-67.85,3,10
+E402C5,Aviação Leve,1 - Leve,Não,7339.63,92.72,-73.27,4,8
+E402C6,Aviação Leve,1 - Leve,Não,11005.48,148.79,-76.32,8,6
+E402C7,Comercial,1 - Leve,Não,32270.94,505.68,-64.27,3,8
+E402C8,Comercial,2 - Moderada,Não,34770.73,435.14,-62.01,5,7
+E402C9,Comercial,1 - Leve,Não,34283.01,438.99,-75.48,2,9
+E402CA,Comercial,1 - Leve,Não,34850.43,473.82,-66.25,6,10
+E402CB,Militar,3 - Severa,Sim,32618.77,641.68,-70.3,5,9
+E402CC,Aviação Leve,1 - Leve,Não,9315.01,135.57,-88.87,7,11
+E402CD,Militar,1 - Leve,Não,36465.11,534.64,-68.1,8,12
+E402CE,Comercial,3 - Severa,Não,34829.69,470.19,-55.44,5,8
+E402CF,Aviação Leve,1 - Leve,Não,7383.36,159.02,-86.88,2,9
+E402D0,Militar,1 - Leve,Não,37727.81,601.18,-67.2,4,9
+E402D1,Comercial,1 - Leve,Não,35464.22,436.92,-63.9,4,9
+E402D2,Comercial,1 - Leve,Não,31289.86,454.16,-60.76,5,10
+E402D3,Aviação Leve,1 - Leve,Não,7361.97,138.12,-83.44,4,9
+E402D4,Comercial,1 - Leve,Não,33941.0,421.76,-73.84,5,9
+E402D5,Aviação Leve,1 - Leve,Não,10484.8,150.29,-78.54,4,10
+E402D6,Comercial,1 - Leve,Não,33424.94,480.49,-69.18,5,8
+E402D7,Aviação Leve,3 - Severa,Não,8849.59,172.59,-77.74,8,9
+E402D8,Comercial,2 - Moderada,Sim,33976.73,488.17,-74.76,7,9
+E402D9,Comercial,1 - Leve,Não,37819.77,411.81,-73.5,6,7
+E402DA,Comercial,1 - Leve,Não,33093.7,489.02,-71.57,7,7
+E402DB,Aviação Leve,1 - Leve,Não,10760.75,161.77,-69.23,3,7
+E402DC,Aviação Leve,1 - Leve,Não,10453.91,124.23,-71.96,5,10
+E402DD,Comercial,1 - Leve,Não,35498.56,471.82,-58.66,2,11
+E402DE,Comercial,1 - Leve,Não,29841.49,451.11,-62.35,4,10
+E402DF,Aviação Leve,2 - Moderada,Sim,9768.66,150.84,-59.77,3,10
+E402E0,Comercial,1 - Leve,Não,34881.57,415.7,-73.64,3,7
+E402E1,Aviação Leve,1 - Leve,Não,8714.93,124.23,-84.76,1,8
+E402E2,Comercial,1 - Leve,Não,36010.53,480.04,-66.64,6,11
+E402E3,Comercial,1 - Leve,Não,34189.83,448.52,-66.29,3,11
+E402E4,Comercial,2 - Moderada,Não,35691.5,493.47,-71.58,7,11
+E402E5,Comercial,2 - Moderada,Sim,40244.85,462.71,-69.94,6,9
+E402E6,Aviação Leve,2 - Moderada,Não,7060.89,135.17,-86.74,4,8
+E402E7,Comercial,1 - Leve,Não,35338.35,445.99,-65.37,2,7
+E402E8,Comercial,1 - Leve,Não,29070.85,517.18,-66.23,3,7
+E402E9,Aviação Leve,1 - Leve,Não,8412.9,152.66,-69.14,5,10
+E402EA,Comercial,1 - Leve,Não,33481.32,448.68,-72.12,5,10
+E402EB,Comercial,1 - Leve,Não,31418.32,491.42,-65.78,4,10
+E402EC,Militar,2 - Moderada,Não,42362.23,560.7,-58.12,5,10
+E402ED,Comercial,1 - Leve,Sim,31606.21,468.98,-68.99,1,7
+E402EE,Comercial,1 - Leve,Não,37700.14,486.4,-65.08,8,9
+E402EF,Militar,1 - Leve,Não,45502.11,609.38,-70.1,8,8
+E402F0,Comercial,1 - Leve,Não,34687.06,483.71,-68.69,3,9
+E402F1,Comercial,1 - Leve,Não,34037.64,449.56,-56.91,6,12
+E402F2,Comercial,3 - Severa,Sim,32353.9,390.05,-66.8,5,11
+E402F3,Aviação Leve,2 - Moderada,Não,10352.47,131.55,-77.65,4,9
+E402F4,Comercial,3 - Severa,Não,34122.88,397.89,-59.78,7,8
+E402F5,Comercial,1 - Leve,Não,32284.86,432.24,-62.48,5,10
+E402F6,Aviação Leve,1 - Leve,Não,9990.52,129.8,-77.18,3,8
+E402F7,Aviação Leve,1 - Leve,Não,8824.04,142.73,-70.26,8,8
+E402F8,Comercial,1 - Leve,Não,35566.71,444.28,-71.32,4,9
+E402F9,Comercial,2 - Moderada,Não,36739.66,468.7,-77.47,7,8
+E402FA,Comercial,1 - Leve,Não,36379.71,479.05,-79.62,8,9
+E402FB,Aviação Leve,1 - Leve,Não,8434.1,148.61,-80.55,6,8
+E402FC,Comercial,1 - Leve,Sim,33762.59,446.07,-61.1,3,8
+E402FD,Comercial,1 - Leve,Não,35741.44,462.68,-71.56,1,5
+E402FE,Aviação Leve,2 - Moderada,Sim,7880.04,121.0,-90.41,4,10
+E402FF,Aviação Leve,1 - Leve,Não,10426.87,158.45,-66.81,2,9
+E40300,Comercial,1 - Leve,Não,37107.76,492.56,-71.48,5,10
+E40301,Aviação Leve,1 - Leve,Não,7881.02,151.9,-84.44,5,10
+E40302,Comercial,1 - Leve,Não,35268.61,470.85,-66.06,2,8
+E40303,Aviação Leve,2 - Moderada,Não,11297.34,157.73,-70.17,3,7
+E40304,Comercial,2 - Moderada,Não,33847.08,481.18,-76.37,7,9
+E40305,Comercial,3 - Severa,Sim,37634.73,462.21,-70.77,3,10
+E40306,Aviação Leve,2 - Moderada,Não,8316.78,154.96,-78.27,4,10
+E40307,Comercial,1 - Leve,Não,31013.11,447.1,-70.24,4,9
+E40308,Comercial,1 - Leve,Não,37202.87,460.04,-65.63,2,10
+E40309,Aviação Leve,1 - Leve,Não,8159.4,153.49,-85.06,5,10
+E4030A,Aviação Leve,1 - Leve,Não,8372.76,164.38,-95.36,3,8
+E4030B,Comercial,2 - Moderada,Não,32014.53,431.14,-74.26,6,12
+E4030C,Aviação Leve,1 - Leve,Não,7282.98,152.43,-79.71,4,9
+E4030D,Comercial,2 - Moderada,Não,35948.51,468.21,-72.46,7,8
+E4030E,Comercial,1 - Leve,Não,36644.41,458.05,-75.12,1,10
+E4030F,Comercial,1 - Leve,Não,37644.54,443.95,-69.66,5,9
+E40310,Comercial,1 - Leve,Não,34555.21,434.44,-70.5,3,8
+E40311,Militar,2 - Moderada,Sim,42445.03,527.1,-60.21,6,8
+E40312,Comercial,1 - Leve,Não,33780.74,490.08,-65.02,5,9
+E40313,Comercial,1 - Leve,Não,40187.66,488.95,-59.2,1,10
+E40314,Comercial,1 - Leve,Não,34867.23,444.57,-66.99,7,8
+E40315,Militar,1 - Leve,Não,44969.89,649.98,-55.6,2,8
+E40316,Comercial,1 - Leve,Não,36856.15,442.15,-66.7,0,10
+E40317,Comercial,2 - Moderada,Não,34241.62,502.66,-76.2,5,11
+E40318,Comercial,1 - Leve,Não,30447.28,443.27,-65.78,3,11
+E40319,Comercial,1 - Leve,Não,36460.79,456.43,-69.43,4,11
+E4031A,Comercial,1 - Leve,Sim,38482.95,483.5,-62.76,4,9
+E4031B,Aviação Leve,1 - Leve,Não,8147.38,171.1,-89.41,7,11
+E4031C,Militar,2 - Moderada,Não,38741.89,626.05,-71.49,5,10
+E4031D,Comercial,1 - Leve,Não,39297.6,453.16,-65.39,4,8
+E4031E,Aviação Leve,1 - Leve,Não,10693.46,122.87,-66.38,4,10
+E4031F,Militar,1 - Leve,Não,41059.43,562.14,-69.95,7,8
+E40320,Aviação Leve,3 - Severa,Sim,10632.49,134.48,-83.99,4,8
+E40321,Comercial,2 - Moderada,Não,34446.16,460.79,-67.37,5,10
+E40322,Comercial,1 - Leve,Não,33584.01,483.29,-66.74,6,8
+E40323,Comercial,1 - Leve,Não,32538.66,494.38,-68.07,5,8
+E40324,Comercial,1 - Leve,Não,37553.79,485.73,-70.76,2,9
+E40325,Aviação Leve,2 - Moderada,Não,7988.22,141.45,-82.89,3,10
+E40326,Militar,1 - Leve,Não,40965.92,598.69,-65.94,5,9
+E40327,Militar,1 - Leve,Não,46423.35,640.96,-62.4,4,7
+E40328,Comercial,1 - Leve,Não,39087.67,496.73,-74.55,4,9
+E40329,Comercial,1 - Leve,Não,34365.81,439.47,-72.02,4,10
+E4032A,Militar,1 - Leve,Não,41284.92,478.9,-53.91,4,8
+E4032B,Aviação Leve,2 - Moderada,Não,8782.68,123.92,-59.81,2,9
+E4032C,Comercial,1 - Leve,Não,34958.47,457.04,-70.72,7,9
+E4032D,Militar,1 - Leve,Não,48250.15,626.94,-68.01,2,8
+E4032E,Aviação Leve,1 - Leve,Não,8565.94,131.81,-69.23,4,9
+E4032F,Comercial,3 - Severa,Não,36063.3,476.8,-70.37,3,8
+E40330,Comercial,1 - Leve,Não,33301.92,378.4,-64.86,3,8
+E40331,Comercial,2 - Moderada,Não,31949.2,459.8,-66.93,7,9
+E40332,Comercial,1 - Leve,Não,37034.95,463.6,-69.35,3,11
+E40333,Comercial,1 - Leve,Não,38472.56,453.46,-52.17,2,8
+E40334,Aviação Leve,1 - Leve,Não,7236.6,140.87,-79.99,1,7
+E40335,Comercial,1 - Leve,Não,36566.53,522.04,-64.66,5,11
+E40336,Comercial,1 - Leve,Não,34211.76,433.65,-66.52,5,9
+E40337,Comercial,2 - Moderada,Não,32994.3,440.64,-63.87,5,10
+E40338,Comercial,1 - Leve,Não,36796.04,455.58,-71.85,6,8
+E40339,Militar,1 - Leve,Não,47994.48,522.08,-57.3,3,8
+E4033A,Comercial,1 - Leve,Não,36200.65,430.46,-63.06,7,11
+E4033B,Comercial,3 - Severa,Não,32593.37,488.91,-58.62,6,7
+E4033C,Aviação Leve,2 - Moderada,Não,9176.18,134.62,-66.23,1,10
+E4033D,Comercial,1 - Leve,Não,33251.26,441.12,-72.46,4,8
+E4033E,Comercial,3 - Severa,Sim,31390.99,446.48,-68.5,7,9
+E4033F,Comercial,1 - Leve,Não,35607.73,451.77,-66.37,3,10
+E40340,Comercial,1 - Leve,Não,36275.39,495.63,-67.24,5,11
+E40341,Comercial,2 - Moderada,Não,33827.17,495.99,-71.75,10,10
+E40342,Comercial,2 - Moderada,Não,36443.41,456.4,-59.56,3,8
+E40343,Comercial,1 - Leve,Não,33789.7,473.72,-64.71,4,9
+E40344,Militar,1 - Leve,Não,42720.47,609.63,-63.43,1,11
+E40345,Comercial,1 - Leve,Não,34905.27,463.54,-75.07,8,11
+E40346,Comercial,3 - Severa,Sim,36807.07,463.13,-61.96,5,11
+E40347,Comercial,1 - Leve,Não,36294.99,403.08,-55.33,3,8
+E40348,Comercial,1 - Leve,Não,35526.5,446.32,-58.44,5,8
+E40349,Aviação Leve,1 - Leve,Não,9527.08,152.32,-85.7,4,11
+E4034A,Comercial,1 - Leve,Não,35727.37,486.82,-72.75,3,9
+E4034B,Militar,1 - Leve,Não,41142.83,632.26,-68.37,2,11
+E4034C,Comercial,3 - Severa,Sim,35004.05,471.61,-58.37,4,7
+E4034D,Comercial,1 - Leve,Não,34287.26,515.97,-55.83,4,7
+E4034E,Comercial,1 - Leve,Não,37759.83,452.82,-69.42,8,8
+E4034F,Militar,1 - Leve,Não,39291.08,611.55,-68.63,4,7
+E40350,Comercial,2 - Moderada,Não,31256.86,495.87,-71.99,7,8
+E40351,Comercial,1 - Leve,Não,36804.76,481.87,-73.8,5,8
+E40352,Comercial,1 - Leve,Não,32513.93,466.99,-75.1,4,9
+E40353,Aviação Leve,2 - Moderada,Não,9146.13,137.72,-75.88,1,10
+E40354,Comercial,2 - Moderada,Não,36613.97,460.54,-81.92,7,10
+E40355,Aviação Leve,2 - Moderada,Não,10595.68,86.05,-84.54,2,10
+E40356,Comercial,2 - Moderada,Não,35697.71,468.16,-78.14,7,9
+E40357,Comercial,1 - Leve,Não,32553.75,417.85,-65.49,5,10
+E40358,Comercial,2 - Moderada,Não,29774.24,455.23,-69.59,5,10
+E40359,Comercial,1 - Leve,Não,34000.3,435.23,-71.12,5,9
+E4035A,Comercial,2 - Moderada,Não,36215.46,405.42,-80.3,6,10
+E4035B,Comercial,2 - Moderada,Não,36847.95,457.22,-65.74,6,9
+E4035C,Aviação Leve,2 - Moderada,Não,9132.15,116.27,-83.91,2,7
+E4035D,Comercial,1 - Leve,Não,36630.83,458.41,-70.02,7,8
+E4035E,Comercial,1 - Leve,Não,36891.22,406.41,-64.04,3,8
+E4035F,Comercial,1 - Leve,Não,32990.13,450.06,-65.51,7,9
+E40360,Comercial,3 - Severa,Sim,38301.04,435.52,-64.23,4,9
+E40361,Comercial,3 - Severa,Sim,34301.23,459.19,-75.97,4,10
+E40362,Comercial,1 - Leve,Não,34843.38,466.75,-67.49,8,7
+E40363,Comercial,1 - Leve,Não,36994.99,488.18,-60.31,1,10
+E40364,Aviação Leve,1 - Leve,Não,10716.28,123.65,-73.3,4,11
+E40365,Militar,2 - Moderada,Não,43602.9,545.42,-67.25,5,8
+E40366,Comercial,2 - Moderada,Sim,38377.13,441.7,-72.84,4,10
+E40367,Comercial,1 - Leve,Não,35189.24,454.44,-73.29,7,10
+E40368,Comercial,1 - Leve,Não,37915.93,474.87,-81.07,5,12
+E40369,Comercial,2 - Moderada,Não,33676.33,468.29,-65.64,3,11
+E4036A,Comercial,2 - Moderada,Não,28437.96,531.37,-64.81,4,10
+E4036B,Comercial,1 - Leve,Não,35372.19,442.18,-67.66,8,11
+E4036C,Aviação Leve,1 - Leve,Não,10719.05,162.08,-76.95,4,8
+E4036D,Aviação Leve,1 - Leve,Não,9301.86,126.16,-84.63,7,8
+E4036E,Comercial,1 - Leve,Não,34810.32,412.83,-66.85,1,10
+E4036F,Comercial,1 - Leve,Não,34909.17,445.04,-67.09,2,7
+E40370,Comercial,1 - Leve,Não,42692.15,498.08,-75.47,5,10
+E40371,Aviação Leve,2 - Moderada,Não,9826.02,160.64,-91.47,2,10
+E40372,Comercial,1 - Leve,Não,33296.55,487.1,-62.04,6,11
+E40373,Comercial,2 - Moderada,Não,38434.79,464.8,-65.65,3,9
+E40374,Aviação Leve,1 - Leve,Não,10385.44,136.46,-84.17,0,9
+E40375,Comercial,1 - Leve,Não,39023.8,440.59,-66.47,3,9
+E40376,Aviação Leve,1 - Leve,Não,8349.09,123.05,-82.56,3,8
+E40377,Comercial,1 - Leve,Não,34689.95,452.88,-73.8,1,9
+E40378,Comercial,2 - Moderada,Não,36677.28,476.91,-70.35,3,9
+E40379,Comercial,3 - Severa,Não,32455.59,470.67,-70.67,6,7
+E4037A,Aviação Leve,1 - Leve,Não,8804.86,124.24,-75.86,5,10
+E4037B,Aviação Leve,1 - Leve,Não,8347.05,168.98,-92.89,2,10
+E4037C,Aviação Leve,2 - Moderada,Não,7719.31,148.81,-69.5,3,8
+E4037D,Comercial,1 - Leve,Não,34060.92,484.93,-65.8,4,9
+E4037E,Aviação Leve,1 - Leve,Não,11829.23,150.49,-73.3,4,10
+E4037F,Comercial,2 - Moderada,Sim,38535.47,478.28,-62.71,4,10
+E40380,Comercial,1 - Leve,Não,31773.6,455.99,-61.42,5,9
+E40381,Aviação Leve,1 - Leve,Não,6432.24,162.45,-74.23,0,9
+E40382,Comercial,1 - Leve,Não,35007.87,494.44,-62.1,4,10
+E40383,Comercial,2 - Moderada,Não,31499.82,521.75,-60.8,7,7
+E40384,Comercial,1 - Leve,Não,33150.57,422.63,-70.31,8,8
+E40385,Comercial,1 - Leve,Não,36086.26,502.81,-65.81,5,9
+E40386,Comercial,2 - Moderada,Não,35817.14,421.1,-69.17,6,8
+E40387,Comercial,1 - Leve,Não,37650.22,428.24,-68.91,3,7
+E40388,Comercial,2 - Moderada,Não,34691.64,468.65,-71.93,4,11
+E40389,Aviação Leve,1 - Leve,Não,9170.0,163.61,-83.51,4,10
+E4038A,Aviação Leve,3 - Severa,Não,11640.25,143.54,-86.07,6,9
+E4038B,Comercial,1 - Leve,Não,29785.26,472.29,-81.47,3,8
+E4038C,Comercial,1 - Leve,Não,35974.01,397.83,-75.19,1,11
+E4038D,Comercial,1 - Leve,Não,37217.7,464.06,-66.31,6,6
+E4038E,Comercial,1 - Leve,Não,34447.39,461.94,-66.84,5,9
+E4038F,Comercial,2 - Moderada,Não,40980.27,441.27,-69.35,1,10
+E40390,Comercial,3 - Severa,Sim,34712.99,475.87,-71.94,6,10
+E40391,Comercial,1 - Leve,Não,34877.59,468.75,-57.31,6,10
+E40392,Comercial,1 - Leve,Não,37020.09,436.25,-70.54,5,8
+E40393,Comercial,2 - Moderada,Não,33866.46,432.53,-72.98,3,6
+E40394,Comercial,2 - Moderada,Não,37621.21,473.66,-72.41,4,9
+E40395,Militar,1 - Leve,Não,40405.58,593.14,-62.01,4,6
+E40396,Aviação Leve,1 - Leve,Não,9512.3,140.72,-77.39,2,8
+E40397,Comercial,1 - Leve,Não,33720.59,461.2,-65.03,4,9
+E40398,Aviação Leve,1 - Leve,Não,9717.45,152.17,-78.46,4,8
+E40399,Comercial,1 - Leve,Não,33162.21,390.8,-78.05,7,9
+E4039A,Aviação Leve,1 - Leve,Não,8055.25,137.08,-67.7,3,9
+E4039B,Aviação Leve,1 - Leve,Não,9520.31,154.15,-79.51,7,11
+E4039C,Comercial,2 - Moderada,Sim,36827.5,475.08,-63.71,2,8
+E4039D,Comercial,1 - Leve,Não,40985.9,452.8,-77.68,8,11
+E4039E,Comercial,1 - Leve,Não,39059.71,470.73,-65.01,2,8
+E4039F,Comercial,1 - Leve,Não,30769.32,502.22,-71.12,6,8
+E403A0,Comercial,1 - Leve,Não,29813.78,459.38,-61.27,3,10
+E403A1,Comercial,1 - Leve,Não,34533.3,453.79,-66.28,2,10
+E403A2,Comercial,1 - Leve,Não,31958.55,428.6,-63.74,6,9
+E403A3,Aviação Leve,1 - Leve,Não,9527.24,161.92,-81.12,6,9
+E403A4,Militar,1 - Leve,Não,39591.97,516.24,-58.79,5,10
+E403A5,Comercial,1 - Leve,Não,34487.81,468.58,-67.98,6,9
+E403A6,Comercial,1 - Leve,Não,32052.69,453.85,-64.34,7,10
+E403A7,Comercial,2 - Moderada,Não,31111.57,503.22,-67.49,5,11
+E403A8,Comercial,1 - Leve,Não,32516.03,463.81,-67.49,0,12
+E403A9,Militar,2 - Moderada,Não,36509.13,594.75,-66.97,3,11
+E403AA,Comercial,1 - Leve,Não,34957.48,474.14,-67.49,2,8
+E403AB,Comercial,1 - Leve,Não,33216.04,477.55,-69.66,6,6
+E403AC,Comercial,1 - Leve,Não,31520.1,507.71,-68.69,6,9
+E403AD,Comercial,1 - Leve,Não,34135.2,468.77,-67.22,8,9
+E403AE,Aviação Leve,2 - Moderada,Não,8426.39,146.23,-69.77,3,11
+E403AF,Aviação Leve,2 - Moderada,Sim,10202.36,145.58,-71.56,6,9
+E403B0,Comercial,2 - Moderada,Não,32315.78,462.27,-70.88,1,11
+E403B1,Comercial,1 - Leve,Não,41348.45,478.06,-68.07,4,9
+E403B2,Comercial,1 - Leve,Não,39183.41,443.5,-77.49,2,7
+E403B3,Militar,1 - Leve,Sim,44430.72,572.12,-70.56,4,10
+E403B4,Aviação Leve,1 - Leve,Não,10464.83,132.69,-80.19,1,8
+E403B5,Comercial,1 - Leve,Não,34964.32,476.48,-64.0,3,12
+E403B6,Comercial,1 - Leve,Não,36090.01,483.63,-65.64,8,10
+E403B7,Aviação Leve,1 - Leve,Não,10135.02,155.49,-81.61,6,11
+E403B8,Comercial,1 - Leve,Não,33269.12,441.55,-71.44,2,10
+E403B9,Militar,2 - Moderada,Não,43252.94,566.63,-56.59,1,10
+E403BA,Comercial,3 - Severa,Não,37269.91,463.46,-68.75,3,10
+E403BB,Comercial,3 - Severa,Não,34471.54,457.14,-62.06,11,9
+E403BC,Comercial,1 - Leve,Não,36295.25,445.18,-73.22,3,10
+E403BD,Comercial,1 - Leve,Não,34972.83,427.31,-67.95,2,8
+E403BE,Comercial,1 - Leve,Não,35682.53,401.91,-68.55,2,7
+E403BF,Aviação Leve,2 - Moderada,Sim,9522.44,129.13,-66.77,4,9
+E403C0,Comercial,1 - Leve,Não,33084.7,428.41,-66.14,4,10
+E403C1,Comercial,1 - Leve,Não,31816.04,498.32,-73.99,2,10
+E403C2,Comercial,2 - Moderada,Sim,31746.03,408.12,-68.75,6,7
+E403C3,Comercial,1 - Leve,Não,35039.24,472.88,-66.64,4,9
+E403C4,Comercial,1 - Leve,Não,37601.08,405.26,-70.21,3,9
+E403C5,Comercial,1 - Leve,Não,35534.52,437.55,-82.73,6,11
+E403C6,Aviação Leve,1 - Leve,Não,10278.43,134.36,-92.77,4,9
+E403C7,Comercial,1 - Leve,Não,33928.36,472.2,-64.28,3,10
+E403C8,Comercial,1 - Leve,Não,34173.06,445.72,-67.1,5,7
+E403C9,Comercial,1 - Leve,Não,36926.88,412.14,-60.62,2,7
+E403CA,Aviação Leve,1 - Leve,Não,8063.78,146.12,-77.14,4,11
+E403CB,Militar,2 - Moderada,Não,36470.25,631.8,-66.76,6,9
+E403CC,Aviação Leve,1 - Leve,Não,9907.35,135.87,-82.11,4,10
+E403CD,Comercial,1 - Leve,Não,32002.62,443.92,-65.99,1,9
+E403CE,Comercial,1 - Leve,Não,42339.14,429.95,-70.57,4,7
+E403CF,Comercial,3 - Severa,Não,36039.59,474.88,-56.99,7,9
+E403D0,Comercial,1 - Leve,Não,32359.92,452.81,-66.15,4,10
+E403D1,Comercial,1 - Leve,Não,40170.57,478.94,-69.62,1,10
+E403D2,Comercial,2 - Moderada,Não,34745.01,436.41,-63.49,1,8
+E403D3,Comercial,2 - Moderada,Não,36636.08,451.59,-64.94,2,9
+E403D4,Comercial,1 - Leve,Não,37048.43,471.87,-73.79,5,9
+E403D5,Aviação Leve,2 - Moderada,Não,8746.0,117.51,-82.03,8,10
+E403D6,Comercial,1 - Leve,Não,33968.8,439.32,-77.76,2,10
+E403D7,Comercial,1 - Leve,Não,40056.48,472.91,-66.27,5,6
+E403D8,Aviação Leve,1 - Leve,Não,11167.52,130.27,-69.26,2,9
+E403D9,Comercial,1 - Leve,Não,33630.24,470.11,-62.19,5,9
+E403DA,Aviação Leve,2 - Moderada,Não,11307.06,191.58,-87.6,1,9
+E403DB,Comercial,1 - Leve,Sim,36747.3,491.17,-74.56,4,8
+E403DC,Comercial,1 - Leve,Não,31323.78,424.64,-72.66,4,10
+E403DD,Aviação Leve,2 - Moderada,Não,9610.55,157.19,-86.64,7,10
+E403DE,Aviação Leve,2 - Moderada,Não,11766.3,152.48,-87.74,2,9
+E403DF,Aviação Leve,1 - Leve,Não,11408.73,155.77,-91.8,5,8
+E403E0,Comercial,1 - Leve,Não,31259.6,434.29,-60.06,3,8
+E403E1,Comercial,1 - Leve,Não,34577.19,516.38,-64.63,0,7
+E403E2,Comercial,2 - Moderada,Não,34478.33,451.25,-62.85,7,10
+E403E3,Comercial,1 - Leve,Não,36383.92,437.0,-69.02,6,11
+E403E4,Militar,3 - Severa,Não,37812.32,536.17,-65.91,5,6
+E403E5,Comercial,1 - Leve,Não,38084.31,452.72,-71.94,4,9
+E403E6,Militar,1 - Leve,Não,34657.83,577.87,-65.36,1,9
+E403E7,Comercial,1 - Leve,Sim,36350.72,478.33,-67.44,8,8
