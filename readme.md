@@ -21,3 +21,26 @@ Estimativa de Intervalos de Confiança (95%) e execução interativa de Teste *t
 Dicionário das variáveis (contínuas, discretas, nominais e ordinais) e exportação direta para planilha `.xlsx` com 5 abas analíticas.
 ![Base de Dados](docs/dados.png)
 
+
+------------
+
+## Como executar localmente
+
+1. **Clonar o repositório e criar o ambiente virtual:**
+```bash
+git clone https://github.com/leonardo-ocr/dashboard_estatistica.git
+cd dashboard_estatistica
+python3 -m venv venv
+source venv/bin/activate
+```
+
+2. **Instalar as dependências:**
+```bash
+pip install -r requirements.txt
+```
+
+3. **iniciar o dashboard:**
+```bash
+streamlit run app.py
+```
+
